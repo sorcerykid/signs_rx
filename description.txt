@@ -1,0 +1,1 @@
+Signs Redux is a complete rewrite of the default signs mod that adds support for colored backgrounds, tabular layouts, embedded emojis, and much more.

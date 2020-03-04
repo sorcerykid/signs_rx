@@ -1,4 +1,4 @@
-Signs Redux Mod v1.1
+Signs Redux Mod v1.2
 By Leslie Krause
 
 I completely rewrote default signs as a standalone mod with many new features! It's now 
@@ -26,12 +26,12 @@ Dependencies
 ----------------------
 
 Default Mod (required)
-  https://github.com/minetest/minetest_game/tree/master/mods/default
+  https://github.com/minetest-game-mods/default
 
 ActiveFormspecs Mod (required)
   https://bitbucket.org/sorcerykid/formspecs
 
-Bedrock Markup Language Mod (required)
+Bedrock Markup Language Mod v1.2 (required)
   https://bitbucket.org/sorcerykid/markup
 
 Installation
@@ -46,7 +46,7 @@ Source Code License
 
 GNU Lesser General Public License v3 (LGPL-3.0)
 
-Copyright (c) 2019, Leslie E. Krause
+Copyright (c) 2019-2020, Leslie E. Krause
 
 This program is free software; you can redistribute it and/or modify it under the terms of
 the GNU Lesser General Public License as published by the Free Software Foundation; either
